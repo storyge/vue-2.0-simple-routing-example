@@ -1,18 +1,12 @@
-# Vue 2.0 Simple Routing Example
+# Vue 2.0 简单路由示例
 
-> A simple example of routing with Vue 2.0 without using vue-router. This branch uses the raw HTML5 History API. For an example integrating a 3rd-party routing solution, see the [pagejs branch](https://github.com/chrisvfritz/vue-2.0-simple-routing-example/tree/pagejs).
+>利用HTML5之historyAPI制做的路由示例
 
-## Build Setup
+## 构建，运行
 
 ``` bash
-# install dependencies
 npm install
-
-# serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
 npm run build
 ```
-
-For a detailed explanation of the build process, read the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+构建过程的文档，可参考[docs for vue-loader](http://vuejs.github.io/vue-loader).
