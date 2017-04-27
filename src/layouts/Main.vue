@@ -7,7 +7,7 @@
       </li>
     </ul>
 
-    <slot></slot>
+    <slot></slot><!--用slot机制，允许页面组件(home,about)填充具体内容-->
   </div>
 </template>
 
